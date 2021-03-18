@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Merci.8f3dfc2e-7e8c-11eb-b0f6-0c0c0c0c0c01.jpg</filename>
+	<path>C:\Users\Omar\Desktop\Final\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Merci.8f3dfc2e-7e8c-11eb-b0f6-0c0c0c0c0c01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>275</ymin>
+			<xmax>524</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,20 @@
+item { 
+	name:'Bonjour'
+	id:1
+}
+item { 
+	name:'Oui'
+	id:2
+}
+item { 
+	name:'Non'
+	id:3
+}
+item { 
+	name:'Merci'
+	id:4
+}
+item { 
+	name:'Help'
+	id:5
+}

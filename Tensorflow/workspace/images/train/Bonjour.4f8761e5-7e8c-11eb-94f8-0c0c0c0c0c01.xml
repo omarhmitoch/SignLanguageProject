@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Bonjour.4f8761e5-7e8c-11eb-94f8-0c0c0c0c0c01.jpg</filename>
+	<path>C:\Users\Omar\Desktop\Final\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Bonjour.4f8761e5-7e8c-11eb-94f8-0c0c0c0c0c01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bonjour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>107</ymin>
+			<xmax>239</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>
